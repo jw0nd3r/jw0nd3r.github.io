@@ -26,6 +26,7 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
 p {
 	text-align: justify;
 	line-height: 1.8;
+	margin-bottom: 2rem;
 }
 
 p a {
